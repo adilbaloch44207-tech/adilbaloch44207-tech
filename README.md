@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Adil Baloch
 
-<!--
-**adilbaloch44207-tech/adilbaloch44207-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **Data Entry, MS Office & Online Work**  
+🚀 Beginner in Freelancing (Fiverr & Upwork)  
+📍 Based in Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 📊 Data Entry  
+- 📝 MS Word  
+- 📈 MS Excel  
+- 📊 PowerPoint  
+- ⌨️ Typing & Formatting  
+- 🌐 Internet Research  
+
+---
+
+## 📂 What I Do
+
+I help clients with:
+- Accurate Data Entry  
+- Document Formatting  
+- Excel Data Management  
+- Copy Paste Tasks  
+- Online Research  
+
+---
+
+## 🎯 Goals
+
+- Improve my freelancing skills  
+- Work with international clients  
+- Build a strong portfolio  
+- Learn new digital skills  
+
+---
+
+## 📫 Contact Me
+
+- 💼 Fiverr: https://www.fiverr.com/yourusername  
+- 💼 Upwork: https://www.upwork.com/freelancers/yourusername  
+- 📧 Email: your@email.com  
+
+---
+
+## ⚡ Fun Fact
+
+I am always ready to learn new skills and grow in the digital world 🚀
