@@ -38,7 +38,10 @@ I help clients with:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: adil.baloch44207@gmail.com
+
+- 💼 Fiverr: https://www.fiverr.com/yourusername  
+- 💼 Upwork: https://www.upwork.com/freelancers/yourusername  
+- 📧 Email: your@email.com  
 
 ---
 
